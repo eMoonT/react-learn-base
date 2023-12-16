@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "rpid": 1,
+      "userInfo": {
+        "uuid": 3338888,
+        "avatar": "https://i1.hdslb.com/bfs/face/5239df1af516ac0ffdfd76a51d56300989412058.jpg@160w_160h_1c_1s_!web-avatar-comment.avif",
+        "username": "心动不长存asa"
+      },
+      "content": "已学完，这个老师讲的真他妈的，什么叫抽丝剥茧，循循渐进，不像有的老师一上来就搞最终过程，根本听不懂，而且老师那还有很多面试题，笔试题我都买了，经过一个月的猛肝，终于在美团面试的时候一把过，美团的福利我就不多说了，免费换电瓶和充电，不说了老板叫我出餐了.",
+      "ctime": "2023-10-17 09:43",
+      "like": 73
+    },
+    {
+      "rpid": 2,
+      "userInfo": {
+        "uuid": 3338889,
+        "avatar": "https://i2.hdslb.com/bfs/face/2c31945de336f3572ee31bb2a15d915ba3773809.jpg@160w_160h_1c_1s_!web-avatar-comment.avif",
+        "username": "red润"
+      },
+      "content": "react18入门简单，只要学会useState,useEffect,useRef三个万精油就可以解决大部分业务了，剩下hooks都是性能优化方面的",
+      "ctime": "2023-10-22 14:45",
+      "like": 12
+    },
+    {
+      "rpid": 3,
+      "userInfo": {
+        "uuid": 3338890,
+        "avatar": "https://i2.hdslb.com/bfs/face/5005ce3cf75c968d4c0ffe3556236f637c466176.jpg@160w_160h_1c_1s_!web-avatar-comment.avif",
+        "username": "层半小卡车"
+      },
+      "content": "听声音感觉很熟悉，原来是柴柴老师，以前就在他个人的号学过React，当时也是顺利找到了实习，课程感觉很适合入门，我当时也是从不会到入门也就用了一星期多点就学完了，还是很感谢老师的课程的。",
+      "ctime": "2023-10-31 21:01",
+      "like": 31
+    }
+  ]
+}
